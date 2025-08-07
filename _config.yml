@@ -21,8 +21,6 @@
 title: Crypto Palm Beach Git Blog
 email: cryptopalmbeach@proton.me
 description: Another Filippo Albertin Site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: creativephil75
 github_username:  cryptopalmbeach
 
