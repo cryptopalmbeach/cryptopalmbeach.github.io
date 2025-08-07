@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Crypto Palm Beach Git Blog
+title: Crypto Palm Beach
 email: cryptopalmbeach@proton.me
 description: Another Filippo Albertin Site
 twitter_username: creativephil75
