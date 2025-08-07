@@ -2,7 +2,6 @@
 title: "Crypto Palm Beach Blog"
 author: "Crypto Palm Beach (Filippo Albertin)"
 description: "Un blog in GitHub"
-baseurl: "/blogs"
 url: "https://cryptopalmbeach.github.io"
 theme: minima
 ---
