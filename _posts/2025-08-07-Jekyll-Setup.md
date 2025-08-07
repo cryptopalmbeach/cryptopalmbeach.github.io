@@ -1,3 +1,5 @@
 > Nel mio primo post intendo semplicemente dire che sono qui a dire che nel mio primo post intendo semplicemente dire che sono qui a dire...
 
 Un post tanto per esordire. Sono arrivato a quota due blog. Il [primo](https://creativephil75.vivaldi.net/) è assolutamente personale, e parla di cose quotidiane: foto, gite, pasti, TV, cose così... Questo secondo dovrebbe muoversi lungo la direttrice del *geek thinking*, esplorando dettagli nostalgici, tech, Web, e cose progettuali alla nerd boy.
+
+La concettualizzazione di oggi: *Ho pensato che un'intervista a Italo Calvino, oggi, risulterebbe inutile esattamente come un Italo Calvino o suo pari. Manca il silenzio opportuno per comprenderne il valore.*
