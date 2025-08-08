@@ -1,0 +1,5 @@
+Ho immaginato di utilizzare alcune fonti di ispirazione autoriale: la scuola [*Oulipo*](https://it.wikipedia.org/wiki/OuLiPo) in primis. Parliamo di certo strutturalismo degli anni Sessanta e (soprattutto) Settanta, che si ritrova moltissimo in musica e in letteratura.
+
+Mi piace l'idea di una struttura determinata prima dell'opera, funzionale all'opera stessa. Mi piace anche l'idea di una nuova astrazione che possa ricordare, per esempio, il teatro musicale di Luciano Berio, che per esempio nel parlare della sua *La Vera Storia* si esprime nei termini di *un'officina musicale che prende attenzione*.
+
+**Idea:** Tre atti. Il secondo sviluppa le morfologie del primo. Il terzo è la ripetizione del secondo, con opportune varianti che lo rendono una sorta di passacaglia. Il tutto viene racchiuso da una grande introduzione e da una coda finale.
