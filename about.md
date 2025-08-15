@@ -7,8 +7,10 @@ Filippo Albertin, classe 1975. Padovano, ma vicentino per adozione. Esperto di a
 
 Membro del [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it) e dell'agenzia di consulenza [Complet Service](https://www.completservice.eu), scrivo anche per la testata online [CryptoSmart News](https://cryptosmart.it/crypto-blog), collaborando come commercial manager per il medesimo [exchange](https://cryptosmart.it).
 
-Mail professionali: filippo@bitcoinvenetocenter.it e filippo@completservice.eu
+Mail professionali: **filippo@bitcoinvenetocenter.it** e **filippo@completservice.eu**
 
-Mail personali: cryptopalmbeach@proton.me e albertin@tuta.io
+Mail personali: **cryptopalmbeach@proton.me** e **albertin@tuta.io**
 
-Mail ludica: creativephil75@vivaldi.net
+Mail iper-mainstream: **filippoalbertin@gmail.com**
+
+Mail ludica: **creativephil75@vivaldi.net**
