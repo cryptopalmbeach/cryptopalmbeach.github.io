@@ -1,21 +1,21 @@
-# La Proposta del BIS: un'Invasione della Privacy e un Rischio per la Decentralizzazione?
+## La Proposta del BIS: un'Invasione della Privacy e un Rischio per la Decentralizzazione?
 
 La Banca dei Regolamenti Internazionali (BIS) ha lanciato una proposta audace che potrebbe rivoluzionare il settore delle criptovalute, spostando l'onere della conformità AML (Anti-Money Laundering) dagli intermediari direttamente sui singoli utenti. L'iniziativa, presentata nel documento "An AML framework for the digital asset ecosystem" a firma di Paul T. O’Byrne, introduce un sistema di "punteggio di reputazione" che traccerebbe la provenienza di ogni singola criptovaluta.
 
-## Dal Controllo degli Exchange alla Sorveglianza degli Asset
+### Dal Controllo degli Exchange alla Sorveglianza degli Asset
 
 Fino ad ora, le normative AML si sono concentrate, come piuttosto ovvio per chiunque ne sappia un minimo di blockchain e, soprattutto, di protocollo Bitcoin, sui punti di accesso centralizzati, come gli exchange di criptovalute, che sono obbligati a implementare le procedure di KYC (Know Your Customer). Tuttavia, secondo il BIS, questo approccio è (appunto, per le medesime ragioni che hanno di fatto motivato a creare Bitcoin) inefficace quando gli asset digitali si spostano verso wallet non-custodial ("self-custody"). La soluzione proposta è quella di incorporare gli obblighi di conformità direttamente negli asset stessi.
 
 Questo sistema assegnerebbe a ogni transazione o a ogni wallet un punteggio di conformità AML, chiaramente espresso tramite opportuni meccanismi di protocollo. Le criptovalute la cui provenienza è tracciabile a wallet verificati dal KYC riceverebbero un punteggio elevato, rendendole "pulite" e accettabili per le entità regolamentate. Al contrario, qualsiasi criptovaluta che sia passata anche una sola volta attraverso un wallet non-KYC verrebbe penalizzata o persino inserita in una "lista nera", rendendola "contaminata".
 
-## La Normalizzazione della Sorveglianza Finanziaria
+### La Normalizzazione della Sorveglianza Finanziaria
 
 Questo modello creerebbe una "cultura del dovere di diligenza" in cui la responsabilità del monitoraggio verrebbe trasferita dai grandi exchange ai singoli utenti. I possessori di wallet non-custodial sarebbero così costretti a verificare lo stato di conformità delle criptovalute prima di accettarle, trasformandoli in una sorta di "guardiani finanziari" che, di fatto, si sorvegliano a vicenda.
 L'adozione di un simile framework potrebbe portare alla nascita di servizi di terze parti per la "taint analysis" (analisi delle contaminazioni), che permetterebbero agli utenti di verificare se le proprie criptovalute sono "pulite". Questo non solo minaccia la privacy finanziaria, ma rischia di emarginare progressivamente le transazioni anonime, creando un sistema in cui la privacy è equiparata alla colpa.
 
 Mentre il Clarity Act approvato dalla Camera dei Rappresentanti degli Stati Uniti nel luglio 2025 protegge l'autonomia delle transazioni P2P e assegna i doveri AML agli intermediari, la proposta del BIS va in una direzione diametralmente opposta. Se adottata, ovviamente immaginando una sua realizzabilità al di fuori, come ovvio, delle già esistenti impostazioni vigenti in progetti CBDC, come l’Euro Digitale, potrebbe trasformare Bitcoin e altre stablecoin in veri e propri strumenti di sorveglianza, minando il loro design originale di moneta digitale decentralizzata e "permissionless".
 
-## Conclusioni: Bitcoin è Hackerabile?
+### Conclusioni: Bitcoin è Hackerabile?
 
 La proposta del BIS, nella sua forma più pura, può sembrare surreale. Tuttavia, non va sottovalutata, poiché potrebbe influenzare le future raccomandazioni di organismi globali come la FATF (Financial Action Task Force). La vera minaccia non è l'applicazione immediata del sistema, ma la normalizzazione dell'idea che la privacy finanziaria sia intrinsecamente sospetta.
 Questo porta a una riflessione cruciale: il protocollo Bitcoin può davvero essere "hackerato" in questo modo per diventare centralizzato? La risposta è complessa. L'architettura stessa di Bitcoin è stata creata per resistere a questo tipo di attacchi. La decentralizzazione del network è garantita da migliaia di nodi distribuiti in tutto il mondo che validano le transazioni secondo regole di consenso immutabili. Nessuna autorità centrale, né una banca né un governo, può modificare il codice base di Bitcoin o forzare l'adozione di un sistema di punteggio.
