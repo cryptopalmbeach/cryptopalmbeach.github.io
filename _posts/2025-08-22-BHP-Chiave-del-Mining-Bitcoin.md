@@ -110,6 +110,9 @@ Non perdere l'opportunità di essere protagonista di questa rivoluzione. Il futu
 
 ---
 
-*BHP Token: Dove l'innovazione incontra l'opportunità, dove il futuro incontra il presente.*
+BHP Token: Dove l'innovazione incontra l'opportunità, dove il futuro incontra il presente.
 
-*Per maggiori informazioni: [bitcoinhash.io](https://bitcoinhash.io) | [cryptosmart.it](https://cryptosmart.it)*
+Per maggiori informazioni:
+
+* [bitcoinhash.io](https://bitcoinhash.io)
+* [cryptosmart.it](https://cryptosmart.it)
